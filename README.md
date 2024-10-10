@@ -44,7 +44,8 @@ Key Insights: The Decision Tree Classifier demonstrated the highest performance,
 
 <img width="563" alt="image" src="https://github.com/user-attachments/assets/45b276d9-14e6-4fdf-a099-5c99fa85f7e7">
 
-## Conclusion: The Decision Tree Classifier outperformed both Logistic Regression and SVC, achieving the highest F1 score and accuracy. Due to its capability to model non-linear relationships in stock data, the Decision Tree model is selected as the best-performing algorithm for predicting GE stock price movements.
+## Conclusion:
+The Decision Tree Classifier outperformed both Logistic Regression and SVC, achieving the highest F1 score and accuracy. Due to its capability to model non-linear relationships in stock data, the Decision Tree model is selected as the best-performing algorithm for predicting GE stock price movements.
 
 ## Recommendations
 Model Enhancement with Ensemble Techniques: The Decision Tree model could be further improved by implementing ensemble methods such as Random Forest or Gradient Boosting, which may enhance prediction accuracy and reduce overfitting.
